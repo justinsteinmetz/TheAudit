@@ -4,8 +4,7 @@ A 20-minute classroom instrument disguised as a bucket list talk.
 
 Students arrive having written personal bucket lists and expecting to discuss them. For five minutes, that's what happens. Then the deck renames itself, and the lists stop being work to be shared and become evidence to be examined: which of these desires did you originate, and which did you absorb?
 
-**Live:** `https://justinsteinmetz.github.io/the-audit/`
-
+https://justinsteinmetz.github.io/TheAudit/
 ---
 
 ## What's in the repo
