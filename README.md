@@ -46,7 +46,7 @@ The house register: void background, Cormorant Garamond display, Inter body, gra
 
 A methodology exercise wearing a wellbeing topic. The transferable move — interrogate where a preference came from before treating it as yours — applies identically to ambitions, opinions, and media habits. The natural follow-up is running the Postcard Test against something other than bucket lists: career plans, or what students think they think about a current news story.
 
-Built for a Year 9 guest segment; the format scales to any group old enough to have absorbed someone else's desires, which is every group.
+
 
 ## Deployment
 
